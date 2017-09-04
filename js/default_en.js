@@ -152,7 +152,7 @@ function copiar() {
 	    'Developer Marcio Leal\n'+
 	    'Contribution André Schleich\n'+
 	    'Technical contribution Dr. Jacqueline Rizzolli (C.O.M. - PUCRS)\n\n'+
-		'Source: http://bit.ly/bariatrica' ;
+		'Source: https://mrleal.github.io/bariatrica/index_en.html' ;
 	$("#copia").val('');
 	$("#copia").val(texto);
 	$('#dialog').dialog('open');

@@ -153,7 +153,7 @@ function copiar() {
                 'Desenvolvimento de Marcio Leal\n'+
                 'Colaboração André Schleich\n'+
                 'Referências técnicas Dra. Jacqueline Rizzolli (C.O.M. - PUCRS)\n\n'+
-				'Fonte: http://bit.ly/bariatrica';
+				'Fonte: https://mrleal.github.io/bariatrica/';
     $("#copia").val('');
     $("#copia").val(texto);
     $('#dialog').dialog('open');
